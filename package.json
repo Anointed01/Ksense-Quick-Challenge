@@ -1,0 +1,23 @@
+{
+  "name": "Ksense-Quick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anointed01/Ksense-Quick-Challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anointed01/Ksense-Quick-Challenge/issues"
+  },
+  "homepage": "https://github.com/Anointed01/Ksense-Quick-Challenge#readme",
+  "dependencies": {
+    "node": "^19.0.0"
+  }
+}
